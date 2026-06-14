@@ -73,7 +73,7 @@
 ### 📊 GitHub Stats
  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=247software-Yuvaraj-dharmaraj&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=247software-Yuvaraj-dharmaraj&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=247software-Yuvaraj-dharmaraj&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages">
 </p>
 

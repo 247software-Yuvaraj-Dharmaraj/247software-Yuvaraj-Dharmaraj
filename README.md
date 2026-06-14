@@ -73,12 +73,12 @@
 ### 📊 GitHub Stats
  
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Yuvaraj-dharmaraj&show_icons=true&theme=tokyonight&hide_border=true%22 height="165" alt="GitHub Stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj-dharmaraj&layout=compact&theme=tokyonight&hide_border=true%22 height="165" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvaraj-dharmaraj&show_icons=true&theme=tokyonight&hide_border=true" height="165" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvaraj-dharmaraj&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages">
 </p>
- 
+
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaraj-dharmaraj&theme=tokyonight&hide_border=true%22 alt="GitHub Streak">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvaraj-dharmaraj&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 </p>
  
 ---
